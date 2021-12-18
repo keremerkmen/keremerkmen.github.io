@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Apps</title>
+    <link rel="stylesheet" href="kerem.css">
+    
+    </head>
+    <body>
+      <p align="center">
+        <img src="myBannerr.jpg"></p>
+    
+     <p align="center">   
+     
+         <a href="index.html"><img src="Homee.png" alt="home button"></a>
+        <a href="javascripts.html"><img src="Javascriptss.png" alt="javascript button"></a>
+        <a href="aboutme.html"><img src="AboutMee.png"alt="about me button"></a>
+        <a href="apps.html"><img src="apps.png" alt="apps button"></a>
+        <a href="finalproject"><img src="finalproject.jpg" alt="final project button"></a>
+        
+        <h1 style="text-align:center">Final Project</h1>
+        <p style="text-align:center">Hi, my name is <strong>Kerem Erkmen</strong>. This is my final project with Gabriel Pratt. This game is for coders who likes drawing. 
+        The game is based on clicking the correct number which has numbers on it with different colors. 
+        So you need to press the color then match the squares which has the same number. We have three different shapes to draw. I wish you will enjoy.</p>     
+   
+    </body>
+</html>
